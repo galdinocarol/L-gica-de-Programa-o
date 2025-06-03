@@ -1,0 +1,21 @@
+
+Primeira atividade 
+
+1. Let data = prompt("Qual é a seu ano de nascimento?" )
+2. let ano = 2025
+3. let resultado = ano - data
+4. console.log(resultado)
+5. console.log("Você tem", resultado, "anos de idade.")
+
+Segunda atividade
+
+1 console.log("Seja muito bem-vindo(a), para continuarmos solicitaremos algumas informações")
+2 let nome = prompt("Digite seu nome: ")
+3 let idade = Number(prompt("Digite sua idade: ")
+4 let email = prompt("Digite seu email: ")
+5 let telefone = Number(prompt("Digite seu telefone: ")
+6 console.log("O seu nome é", nome)
+7 console.log("você tem",idade,"anos")
+8 console.log("Pertence a você o email",email)
+9 console.log("e seu numero de telefone é",telefone)
+10 console.log("Obrigado pelas sua informações, agora podemos continuar ...")
