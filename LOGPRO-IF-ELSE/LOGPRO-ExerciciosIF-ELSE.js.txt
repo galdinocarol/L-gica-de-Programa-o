@@ -1,0 +1,191 @@
+Atividade 1
+
+1  let idade = prompt("digite a sua idade: ")
+2  if(idade < 18){
+3    console.log("você é menor de idade")
+4  }
+5  else(
+6    console.log("você é de maior")
+7  }
+
+Atividade 2
+
+1 let horario = prompt("Qual o horario?")
+2 if(horario <= '12'){
+3    console.log("Bom dia.")
+4    }
+5 else if(horario <=18){
+6    console.log("Boa tarde.")
+7    }
+8 else{
+9 console.log("Boa noite.")
+10 }
+
+Atividade 3
+
+1. let idade = prompt("Qual a sua idade?")
+2. if(idade < 16){
+3    console.log("Você não pode entrar!")
+4. }
+5. else{
+6. console.log("Você pode entrar, bem-vindo!")
+7. }
+
+Atividade 4
+
+1 let num1 = prompt("digite o primeiro numero:")
+2 let num2 = prompt("digite o segundo numero: ")
+3 if (num1 > num2){
+4 console.log("O primeiro numero é maior")
+5 }
+6 else if (num1 < num2){
+7 console.log("O segundo numero é maior")
+8 }
+
+Atividade 5
+
+1 let temperature = prompt("Digite a temperature: ")
+2 if (temperature < 18){
+3    console.log("esta frio")
+4 }
+5 else if (temperatura <= 22){
+6    console.log("termico")
+7 }
+8 else if (temperatura > 22){
+9    console.log("esta quente")
+10 }
+
+Atividade 6
+
+1 let palavra = prompt("Advinne a palavra: ")
+2 if (palavra == "felicidade"){
+3 console.log("palavra correta")
+4 }
+5 else{
+6 console.log("palavra incorreta")
+7 }
+
+Atividade 7
+
+1 let moedas = prompt("Digite a quantidade de moedas:");
+2
+3 moedas = parseInt(moedas);
+4
+5 if (moedas < 10) {
+6    console.log("Poucas moedas");
+7 } else if (moedas >= 10 && moedas <= 20) {
+8    console.log("Quantidade média");
+9 } else {
+10    console.log("Muitas moedas");
+11 }
+
+Atividade 8
+
+1 let temperature = prompt("Digite a temperatura:");
+2
+3 temperature = parseFloat(temperature);
+4
+5 if (temperatura > 30) {
+6    console.log("Muito quente");
+7 } else if (temperatura >= 20 && temperatura <= 30) {
+8    console.log("Calor");
+9 } else {
+10    console.log("Frio");
+11 }
+
+Atividade 9
+
+1 let numero = prompt("Digite um número:");
+2
+3 numero = parseFloat(numero);
+4
+5 if (numero > 0) {
+6    console.log("Positivo");
+7 } else if (numero < 0) {
+8    console.log("Negativo");
+9 } else {
+10    console.log("Zero");
+11 }
+
+Atividade 10 
+
+1 let nota = prompt("Digite a nota do aluno:");
+2
+3 nota = parseFloat(nota);
+4
+5 if (nota >= 7) {
+6    console.log("Aprovado");
+7 } else {
+8    console.log("Reprovado");
+9 }
+
+Atividade 11
+
+1 let animal = prompt("Digite o nome de um animal:");
+2
+3- if (animal === "Cachorro" || animal === "Gato" || animal === "Pássaro")
+    {
+4    console.log("Animal listado");
+5- } else {
+6    console.log("Animal não listado");
+7 }
+
+
+Atividade 12
+
+1 let dia = prompt("Digite o dia da semana:");
+2
+3- if (dia == "sábado" || dia == "domingo") {
+4    console.log("Fim de semana");
+5- } else {
+6    console.log("Dia útil");
+7 }
+
+Atividade 13
+
+1 let experiencia = prompt("Quantos anos de experiência você tem?");  
+2 experiencia = parseInt(experiencia);  
+3
+4 if (experiencia > 2) {
+5    console.log("Experiente");
+6 } else {
+7    console.log("Iniciante");
+8 }
+
+
+Atividade 14
+
+1 let numero = prompt("Digite um número:");
+2  
+3 numero = parseInt(numero);
+4  
+5  
+6 if (numero >= 10 && numero <= 20) {
+7    console.log("Dentro do intervalo");
+8 } else {
+9    console.log("Fora do intervalo");
+10 }
+
+Atividade 15 
+
+1    let idade = prompt("Digite a sua idade:");
+2    |
+3- if (idade >= 18) {
+4    console.log("Pode tirar a carteira de motorista");
+5- } else {
+6    console.log("Não pode tirar a carteira de motorista");
+7    }
+
+Atividade 16
+
+1 let numero = prompt("Digite um número:");
+2 numero = parseFloat(numero);
+3
+4 if (numero > 0) {
+5    console.log("Positive");
+6 } else if (numero < 0) {
+7    console.log("Negativo");
+8 } else {
+9    console.log("Zero");
+10 }
+}
