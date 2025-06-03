@@ -1,0 +1,252 @@
+Lógica de programação
+A lógica está presente em todas as atividades do nosso dia a dia.
+É uma série de passos para chegar num objetivo, como tudo o que fazemos.
+A três formas de se apresentar um script:
+1. Codificação: codificando
+2. Fluxograma: através de imagens
+3. Linguagem natural: linguagem humana (português)
+
+Vamos fazer um café?
+? Pegue uma caneca de alumínio, e despeje água 500ml;
+? Ligue o fogão, e coloque sobre ele a caneca;
+? Quando a água começar a borbulhar, desligue o fogo e reserve;
+? Em um coador de pano, coloque 4 colheres rasas de pó de café, apoie o coador
+sobre um bule;
+? Pegue a caneca e despeje a água sobre o pó do café que está no coador
+? Espere o processo de filtração;
+? Quando perceber que não há mais água no coador o processo terá terminado;
+? Em uma xicara de cerâmica adicione o café já coado e se preferir adicione
+açúcar, (quantidade da sua preferência);
+? Seu café está pronto, faça bom proveito.
+Qual meu trajeto para a escola?
+? Saio da minha casa;
+? Atravesso a rua;
+? Ando cerca de 10 metros e espero no ponto de ônibus;
+? Subo no ônibus;
+? O ônibus anda reto por cerca de 3 metros e viro à direita;
+? Anda reto por mais ou menos 400 metros, e viro à esquerda;
+? Ando reto mais uns 350 metros e viro à direita novamente, em 5 metros vira-se à
+direita novamente;
+? Após andar mais uns 450 metros, vira-se à direita e segue reto, desce a ladeira
+viro à direita;
+? Faço a curva e chegamos na estação de Ferraz;
+? Atravesso a estação e atravesso a rua;
+? Estou em frente ao ragazzo;
+? Subo em outro ônibus, 006, que me leva ao hospital são marcos, o ônibus anda
+reto por cerca de uns 900 metros, viro à direita, subindo a ladeira, viro à
+esquerda e chega no hospital São Marcos;
+
+? Desço do ônibus, e sigo reto por uns 5 metros, viro à esquerda e ando reto por
+mais 600 metros, viro à direita e entro na escola.
+
+Atividade 2 - algoritmo
+Atividade 1: Fazer um arroz
+Descreva o algoritmo para preparar um arroz. Indique o que deve ser feito em cada
+etapa para concluí-lo corretamente.
+1. Primeiro separe os devidos ingredientes: 2 fios de azeite, 1 cebola, 2 dentes de
+alho, arroz e sal;
+2. Pique a cebola e o alho em cubos pequenos;
+3. Ligue o fogão em fogo médio/baixo;
+4. Em uma panela de inox, adicione cerca de 2 colheres rasas de azeite, e em
+seguida adicione a cebola e o alho;
+5. Quando a cebola e o alho estiverem com uma cor dourada, adicione 3 xicaras de
+arroz;
+6. Mexa até o arroz ficar com a coloração esbranquiçada, adicione uma quantidade
+da sua preferencia de sal (geralmente adiciono 1 colher de sopa rasa)
+7. Cubra o arroz com 4 xicaras de água;
+8. Espere por aproximadamente 7 minutos, desligue o fogo;
+9. Feche a panela com a tampa e espere mais alguns minutos (esse processo
+cozinhara o arroz de forma correta, deixando-o soltinho);
+10. E seu arroz estará pronto, bom apetite.
+
+Atividade 2: Fazer um chá
+Escreva o algoritmo que explique como fazer um chá. Estruture o processo desde o
+início até o momento em que ele está pronto para ser servido.
+1. Primeiramente separe os devidos utensílios e ingredientes: uma chaleira, a xicara
+da sua preferência, o chá (erva) de sua escolha, açúcar, infusor /peneira e um
+bule;
+2. Em uma chaleira adicione 210 ml de água;
+3. Ligue o fogão em fogo alto, e coloque a chaleira;
+4. Espere a chaleira apitar e sair fumaça;
+5. Na xicara de sua preferência, adicione a água que ferveu;
+6. Adicione de 2 a 3 gramas de erva do chá;
+7. Em outra xicara coloque o infusor e sobre ele despeje a água do chá;
+8. E para finalizar adicione uma quantidade de sua preferência de açúcar, somente
+se desejar;
+9. Aproveite seu já quentinho.
+
+Atividade 3: Preparar um sanduíche
+Escreva o algoritmo para montar um sanduíche simples. Inclua o passo a passo desde
+pegar os ingredientes até servi-lo.
+1. Primeiro separe os ingredientes: duas fatias de pão de forma ou um pão francês,
+uma colher de manteiga, 1 fatia de presunto, 1 fatia de queijo, duas fatias de
+tomate e uma pitada de orégano;
+2. Pegue o pão e coloque sobre um prato, passe a manteiga nas duas extremidades
+do pão, deixe o mesmo com a manteiga virada pra cima;
+3. Em uma das partes que está com manteiga, coloque as fatias de presunto e
+queijo;
+4. E em cima das fatias, coloque as duas fatias de tomate e a pitada de orégano;
+5. Feche o pão com a outra fatia;
+6. Seu sanduíche está pronto.
+OBS: se preferir coloque uma frigideira no fogo baixo, adicione uma colher de chá
+de manteiga e frite o sanduíche, virando-o sempre para que os dois lados fiquem
+dourados.
+
+Atividade 4: Comprar um ingresso online
+Desenvolva um algoritmo que explique como comprar um ingresso pela internet, desde
+acessar o site até realizar o pagamento.
+1. Inicie o processo de compra de ingresso;
+2. Abra o navegador ou aplicativo da plataforma de venda de ingressos
+3. Digite o endereço do site ou selecione o aplicativo;
+4. No campo de busca, digite o nome do evento, show, peça de teatro, filme, etc.,
+que deseja assistir;
+5. Selecione o evento desejado na lista de resultados;
+6. Escolha a data e o horário do evento, se houver mais de uma opção;
+7. Selecione o tipo de ingresso (ex: inteira, meia-entrada, VIP, etc.);
+8. Verifique as informações sobre o ingresso, como preço, localização no evento e
+benefícios;
+9. Escolha a quantidade de ingressos desejados;
+10. Verifique se há limite de ingressos por compra;
+11. Clique no botão &quot;Adicionar ao carrinho&quot; ou equivalente;
+12. Confira os detalhes dos ingressos no carrinho;
+13. Certifique-se de que os ingressos estão disponíveis para a quantidade e tipo
+selecionados;
+14. Se já possuir uma conta, faça login com seu e-mail e senha;
+15. Caso não tenha uma conta, crie uma fornecendo os dados necessários (nome, e-
+mail, senha, etc.);
+16. Insira os dados solicitados, como CPF (para meia-entrada, se aplicável) ou
+nomes dos titulares dos ingressos;
+17. Escolha a forma de recebimento do ingresso (ex: ingresso digital, impresso em
+casa, retirada no local, etc.);
+
+18. Selecione a forma de pagamento (ex: cartão de crédito, débito, Pix, boleto
+bancário, etc.);
+19. Insira os dados do método de pagamento escolhido;
+20. Confira todas as informações: evento, data, horário, quantidade de ingressos,
+preço total e método de pagamento;
+21. Certifique-se de que os dados estão corretos;
+22. Clique no botão &quot;Finalizar compra&quot; ou equivalente;
+23. Aguarde a confirmação da transação;
+24. Após a confirmação, você receberá um e-mail ou mensagem com os detalhes da
+compra e o ingresso (se for digital);
+25. Salve ou imprima o ingresso, se necessário;
+26. Processo de compra concluído com sucesso.
+
+Atividade 5: Organizar a mochila para a escola
+Faça um algoritmo para organizar a mochila. Defina cada ação necessária para preparar-
+se adequadamente para as aulas.
+1. Escolha a mochila que deseja utilizar;
+2. Pegue os matérias necessários (caderno, estojo, livro didático, documentos
+pessoais e uma garrafa de água);
+3. Organize esses materiais dentro da mochila, para ficar mais confortável na hora
+de carregar;
+4. Primeiro coloque o caderno, em seguida o estojo e o livro didático;
+5. E acima deles coloque seu documento (melhor que ele esteja em sua carteira);
+6. E no bolso na extremidade da mochila coloque a garrafa de água.
+7. Prontinho sua mochila está organizada, boa aula.
+
+Atividade 6: Arrumar a cama
+Descreva um algoritmo que explique como arrumar a cama. Enumere as ações até que a
+cama esteja organizada.
+1. Retire todos os objetos que estão sobre a cama (ex: travesseiros, livros,
+brinquedos, pelúcias e etc);
+2. Remova os lenções, fronhas, cobertores (caso deseje lava-los);
+3. Arrume o colchão caso esteja desalinhado;
+4. Pegue o lençol de elástico e estique-o sobre o colchão;
+5. Pegue o lençol superior (sem elástico) ou colcha, coloque-o sobre o lençol de
+elástico;
+6. Alinhe suas bordas com as bordas do colchão;
+7. Coloque a fronha no travesseiro;
+8. Coloque-o sobre a cama;
+9. Verifique se todos os lenções e travesseiros estão alinhados;
+10. E pronto sua cama estará arrumada.
+
+Atividade 7: Fazer um suco
+Elabore o algoritmo para fazer um suco. Explique o processo desde o início até que o
+suco esteja pronto para ser consumido.
+1. Defina qual tipo de suco deseja fazer (ex: laranja, limão, abacaxi, etc.);
+2. Separe os ingredientes necessários (frutas, água, açúcar ou adoçante, gelo, jarra
+e liquidificador.);
+3. Descasque as frutas, se necessário (ex: laranja, abacaxi, etc.);
+4. Remova sementes, caroços ou partes não comestíveis;
+5. Corte as frutas em pedaços menores;
+6. Coloque os pedaços de fruta no liquidificador;
+7. Adicione 1 litro de água no liquidificador;
+8. Adicione açúcar, adoçante ou mel a gosto (opcional);
+9. Ligue o liquidificador e bata os ingredientes até obter uma mistura homogênea;
+10. Coloque cubos de gelo no copo, se desejar um suco gelado;
+11. Despeje o suco em um copo ou jarra;
+12. O suco está pronto para ser consumido.
+
+Atividade 8: Lavar a louça
+Crie um algoritmo que explique como lavar a louça. Estruture as etapas para garantir
+que todas as louças estejam limpas e guardadas.
+1. Retire os restos de comida das louças e descarte-os no lixo;
+2. Separe os itens por categoria (pratos, talheres, copos, panelas, etc.) para facilitar
+a lavagem;
+3. Tampe o ralo da pia e adicione água quente (se possível) até cobrir o fundo;
+4. Adicione detergente líquido;
+5. Coloque itens com resíduos mais difíceis de remover (ex: panelas queimadas) de
+molho na água quente;
+6. Comece pelos itens menos engordurados e mais delicados:
+? Copos e taças: Lave com cuidado para evitar quebrá-los;
+? Talheres: Lave um por um ou em pequenos grupos;
+? Pratos e tigelas: Lave a superfície e as bordas;
+? Panelas e utensílios de cozinha: Deixe por último, pois costumam ser os mais
+engordurados;
+7. Use uma esponja para esfregar cada item, removendo toda a sujeira;
+8. Enxágue cada item sob água corrente para remover o sabão;
+9. Coloque os itens em um escorredor;
+10. Enxágue a pia e remova os resíduos de sabão e comida;
+11. Limpe a esponja ou escova e guarde-a em local seco;
+12. Pronto sua louça esta lavada.
+
+Atividade 9: Trocar uma lâmpada
+
+Escreva o algoritmo para trocar uma lâmpada. Detalhe cada etapa para realizar a tarefa
+com segurança e eficiência.
+1. Confirme se a lâmpada está queimada ou se há outro problema (ex: falta de
+energia no local);
+2. Desligue o interruptor da luz para evitar choques elétricos. Se a lâmpada estava
+acesa recentemente, aguarde alguns minutos para que ela esfrie e evite
+queimaduras;
+3. Separe a nova lâmpada (com o mesmo tipo e potência da anterior);
+4. Tenha uma escada, se a lâmpada estiver em um local alto;
+5. Coloque a escada em um local firme e estável, abaixo do local da lâmpada;
+6. Suba na escada com cuidado;
+7. Segure a lâmpada com firmeza e gire-a no sentido anti-horário (geralmente) para
+soltá-la do soquete;
+8. Se a lâmpada estiver presa, use um pano seco para ajudar a girá-la;
+9. Desça da escada e descarte a lâmpada antiga de forma adequada;
+10. Suba novamente na escada com cuidado;
+11. Pegue a nova lâmpada e rosqueia à no soquete no sentido horário, até que fique
+firme;
+12. Evite apertar demais para não danificar o soquete ou a lâmpada;
+13. Desça da escada e ligue o interruptor para verificar se a nova lâmpada está
+funcionando;
+14. Se não acender, verifique se a lâmpada está bem instalada ou se há outro
+problema no circuito;
+15. Guarde a escada;
+16. A lâmpada foi trocada com sucesso e está funcionando.
+
+Atividade 10: Enviar uma mensagem no celular
+Descreva o algoritmo para enviar uma mensagem no celular. Explique desde o
+momento de desbloquear o dispositivo até o envio da mensagem.
+1. Ligue a tela do dispositivo;
+2. Desbloqueie o celular usando o método configurado (senha, PIN, padrão,
+impressão digital ou reconhecimento facial);
+3. Localize o ícone do aplicativo de mensagens, toque no ícone para abrir o
+aplicativo;
+4. Se já houver uma conversa com o contato desejado, toque nela para abrir;
+5. Caso contrário, toque no botão de &quot;Nova mensagem&quot; ou &quot;+&quot; (geralmente no
+canto inferior direito);
+6. Digite o nome ou número do contato no campo de busca ou selecione-o na lista
+de contatos;
+7. Use o teclado virtual para digitar a mensagem desejada;
+8. Se quiser enviar uma foto, vídeo, arquivo ou áudio, toque no ícone de anexo
+(geralmente um clipe ou câmera);
+9. Selecione o arquivo desejado na galeria ou tire uma foto/grave um áudio no
+momento;
+10. Toque no ícone de enviar (geralmente uma seta ou avião de papel);
+
+11. A mensagem foi enviada com sucesso.
