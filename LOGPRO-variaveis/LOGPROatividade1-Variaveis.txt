@@ -1,0 +1,24 @@
+main.js
+
+1  let nome = ("Caroline")
+2  console.log (nome)
+3  let idade = 16
+4  console.log (idade)
+5  let aprendendojavascript = ("true")
+6  console.log (aprendendojavascript)
+7  let sobrenome = ("Galdino Bonfim")
+8  let nomeComplete (nome + sobrenome)
+9  console.log (nomeComplete)
+10  let num1 = 10
+11  let num2 = 20
+12  console.log (num1 + num2)
+13  console.log (num1 * num2)*/
+14  let cidade = ("Ferraz de Vasconcelos")
+15  let habitantes = 179158
+16  console.log ("Em",cidade, "tem","habitantes")
+17  let preco = 60
+18  preco += 12
+19  let meuvalor
+20  console.log (meuvalor)
+21  let meunulo = ("null")
+22  console.log (meunulo)
